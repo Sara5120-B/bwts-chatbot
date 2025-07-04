@@ -1,0 +1,13 @@
+streamlit
+langchain
+pypdf
+sentence-transformers
+groq
+python-dotenv
+plotly
+streamlit-chat
+requests
+protobuf==3.20.3
+chromadb==0.4.22
+numpy<2.0
+
